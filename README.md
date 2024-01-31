@@ -15,7 +15,7 @@
 -  Sequelize 🌊
 -  JavaScript 📜
 -  SQL 🗃️
--  MongoDB 🍃
+  
 
 ## Cómo contactarme
 - LinkedIn: [linkedin.com/in/carolina-edén-sartini-034b52241](https://linkedin.com/in/carolina-edén-sartini-034b52241)
