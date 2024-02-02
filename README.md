@@ -20,6 +20,7 @@
 ## Cómo contactarme
 - LinkedIn: [linkedin.com/in/carolina-edén-sartini-034b52241](https://linkedin.com/in/carolina-edén-sartini-034b52241)
 - Correo electrónico: [carosartini.cs@gmail.com](mailto:carosartini.cs@gmail.com)
+- Portfolio: https://edeok.github.io/
 
 ¡Estoy abierta a oportunidades laborales y colaboraciones! Si deseas discutir proyectos interesantes o tienes alguna pregunta, no dudes en contactarme.
 
