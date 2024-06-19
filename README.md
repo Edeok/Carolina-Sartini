@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Carolina Edén Sartini, una apasionada desarrolladora Full Stack con experiencia en tecnologías como JavaScript, React.js, Redux, Node.js, Express.js, PostgreSQL, Sequelize, SQL, MongoDB, desarrollo blockchain, y contratos inteligentes con Solidity.
+¡Hola! 👋 Soy Carolina Edén Sartini, una apasionada desarrolladora Full Stack con experiencia en tecnologías como JavaScript, React.js, Redux, Node.js, Express.js, PostgreSQL, Sequelize, SQL, MongoDB, desarrollo de blockchain, desarrollo Dapp y contratos inteligentes con Solidity.
 
 💻 Mi trayectoria como Coach Ontológico me ha brindado habilidades de liderazgo, resolución de problemas y comunicación efectiva.
 
@@ -6,7 +6,7 @@
 
 🎯 Mi meta es encontrar un puesto como Full Stack Developer, donde pueda aplicar mis habilidades técnicas, contribuir al éxito del equipo y seguir desarrollándome profesionalmente.
 
-## Tecnologías
+Tecnologías
 - React.js ⚛️
 - Redux 🔄
 - Node.js 🚀
@@ -17,8 +17,13 @@
 - SQL 🗃️
 - MongoDB 🍃
 - Blockchain Development ⛓️
+- Desarrollo Dapp 🌀
 - Smart Contracts 📜
 - Solidity 🔒
+
+Habilidades Aplicadas
+- Desarrollo Dapp
+- Desarrollo de aplicaciones Solidity para POAP (Proof of Attendance Protocol)
 
 ## Cómo contactarme
 - LinkedIn: [linkedin.com/in/carolina-edén-sartini-034b52241](https://linkedin.com/in/carolina-edén-sartini-034b52241)
